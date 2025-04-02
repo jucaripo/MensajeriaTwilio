@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{8EC30BC5-A72F-4432-961F-F9B2691073AF}|https">
+  <MonoDevelop.Ide.ItemProperties.Mensajeria PreferredExecutionTarget="/Applications/Brave Browser.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MensajeriaTwilio FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
